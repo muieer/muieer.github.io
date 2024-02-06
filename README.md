@@ -2,6 +2,10 @@
 
 ## 2024
 
+**二月**
+
+- 第一篇：[什么是特征平台](https://github.com/muieer/Blog/blob/master/doc/business/feature_platform.md)
+
 **一月**
 
 - 第二篇：[Flink 架构学习笔记](https://github.com/muieer/Blog/blob/master/doc/flink/flink_architecture_note.md)
