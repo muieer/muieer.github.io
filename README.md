@@ -4,6 +4,7 @@
 
 **二月**
 
+- 第二篇：[为什么其他方法优先于 Java 序列化](https://github.com/muieer/Blog/blob/master/doc/java/why_not_use_java_serialization.md)
 - 第一篇：[什么是特征平台](https://github.com/muieer/Blog/blob/master/doc/business/feature_platform.md)
 
 **一月**
