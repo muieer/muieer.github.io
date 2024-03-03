@@ -2,6 +2,10 @@
 
 ## 2024
 
+**三月**
+
+- 第一篇：[业务开发中的数据库连接池技术选型思考](https://github.com/muieer/Blog/blob/master/doc/java/library/database_connection_pool_selection.md)
+
 **二月**
 
 - 第二篇：[为什么其他方法优先于 Java 序列化](https://github.com/muieer/Blog/blob/master/doc/java/why_not_use_java_serialization.md)
