@@ -2,6 +2,10 @@
 
 ## 2024
 
+**四月**
+
+- 第一篇：[Java 对象布局和对象指针压缩](https://github.com/muieer/learning_notes/blob/master/java/java_object_layout_and_compressed_object_point.md)
+
 **三月**
 
 - 第二篇：[优先选择使用 ThreadLocalRandom 生成随机数](https://github.com/muieer/Blog/blob/master/blog/202403/thread_local_random_instead_of_random.md)
